@@ -1,0 +1,32 @@
+{
+  "name": "namastereactwebseries",
+  "version": "1.0.0",
+  "description": "This is Namaste React Web Series",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gowthami-sukhavasi/React-WebSeries.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "Gowthami Sukhavasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gowthami-sukhavasi/React-WebSeries/issues"
+  },
+  "homepage": "https://github.com/gowthami-sukhavasi/React-WebSeries#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}

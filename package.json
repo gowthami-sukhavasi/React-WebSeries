@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is Namaste React Web Series",
   "scripts": {
+    "start": "parcel 03-Foundation/index.html",
+    "build": "parcel build 03-Foundation/index.html",
     "test": "jest"
   },
   "repository": {

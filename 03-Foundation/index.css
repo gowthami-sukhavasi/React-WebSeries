@@ -1,0 +1,22 @@
+#heading{
+    color: brown;
+}
+
+#header{
+    display: flex;
+    background-color: pink;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+}
+
+.searchbar{
+    flex-grow: 1;
+}
+
+.usericon{
+    height: 50px;
+    width: 50px;
+}
